@@ -1,0 +1,11 @@
+{
+  "name": "victoria",
+  "version": "1.0.0",
+  "description": "Library React ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ronaldmindiola@live.com",
+  "license": "ISC"
+}
